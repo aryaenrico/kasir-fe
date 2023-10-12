@@ -2,6 +2,7 @@
 import './App.css'
 import Header from './navabr'
 import TabUnerLine from './underlineTabs'
+import Trsansactions from './transactions'
 
 
 
@@ -12,6 +13,7 @@ function App() {
 
      <Header></Header>
      <TabUnerLine></TabUnerLine>
+     <Trsansactions></Trsansactions>
      
     </>
   )
