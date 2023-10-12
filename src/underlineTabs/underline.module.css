@@ -1,0 +1,6 @@
+.tab a:active{
+    color: aqua;
+}
+.tab a{
+    color: black;
+}
