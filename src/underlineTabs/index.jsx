@@ -8,15 +8,10 @@ function tabUnderLine() {
     <Container>
     <Nav variant="underline" defaultActiveKey="/home">
     <Nav.Item>
-      <Nav.Link href="/home" className={Style.tab}>Active</Nav.Link>
+      <Nav.Link href="/home" className={Style.tab}>Food</Nav.Link>
     </Nav.Item>
     <Nav.Item>
-      <Nav.Link eventKey="link-1" className={Style.tab}>Option 2</Nav.Link>
-    </Nav.Item>
-    <Nav.Item>
-      <Nav.Link eventKey="disabled" disabled>
-        Disabled
-      </Nav.Link>
+      <Nav.Link eventKey="link-1" className={Style.tab}>Transaksi</Nav.Link>
     </Nav.Item>
   </Nav>
   </Container>
